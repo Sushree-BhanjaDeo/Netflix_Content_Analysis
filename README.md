@@ -48,6 +48,7 @@ has grown over time can help guide investment and acquisition strategies.
 3. Exploratory Data Analysis (EDA)
 4. Visualisation of trends and distributions
 5. Insight generation and business recommendations
+6. Visualisation using bar charts and line charts
 
 
 ## 🔍 Key Insights
